@@ -1,7 +1,3 @@
-| <a href="https://github.com/kaili-yang/kaili-yang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaili-yang&count_private=true&show_icons=true&theme=buefy&hide=prs&hide_border=true" alt="Kaili Yang's github stats" /></a> | <a href="https://github.com/kaili-yang/Alzhimers-Disease-Prediction-Using-Deep-learning"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaili-yang&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
 [![Kaili Yang](https://github-profile-trophy.vercel.app/?username=kaili-yang&rank=AA)](https://github.com/kaili-yang/kaili-yang)
 
 I'm a passionate full stack developer from Shanghai,China 🇨🇳 but study, work and live in BC, Canada 🇨🇦.
@@ -25,6 +21,10 @@ I'm a passionate full stack developer from Shanghai,China 🇨🇳 but study, wo
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
  <img src = "https://komarev.com/ghpvc/?username=kaili-yang&color=blueviolet&style=plastic" >
+ 
+| <a href="https://github.com/kaili-yang/kaili-yang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaili-yang&count_private=true&show_icons=true&theme=buefy&hide=prs&hide_border=true" alt="Kaili Yang's github stats" /></a> | <a href="https://github.com/kaili-yang/Alzhimers-Disease-Prediction-Using-Deep-learning"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaili-yang&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
+
  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
