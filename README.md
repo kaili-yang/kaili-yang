@@ -1,9 +1,8 @@
 # Hi there! 👋🏻    <img src = "https://komarev.com/ghpvc/?username=kaili-yang&color=blueviolet&style=plastic" >
-[![Kaili Yang](https://github-profile-trophy.vercel.app/?username=kaili-yang&rank=AA)](https://github.com/kaili-yang/kaili-yang)
 
 I'm Kaili Yang. A full stack developer from Shanghai,China 🇨🇳 and now settle down in BC, Canada 🇨🇦.
 
-#### 
+
 - 📚 M.sc Computer Science (GPA: 4.35)
 - 💬 English(En) 中文(Zh) Français(Fr)
 - 🌐 Full-stack web (React + Django/NodeJS + SQL)
