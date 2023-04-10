@@ -8,7 +8,7 @@ I'm Kaili Yang. A full stack developer from Shanghai,China 🇨🇳 and now sett
 - 🌐 Full-stack web (React + Django/NodeJS + SQL)
 - 🧠 Deep Learning + NLP + CV
 - 💕 Opensource
-- 💜 Like Python, TypeScript, and React
+- 💜 Like Python, Node, and React
 - 👩‍💻 4 software engineer experience
 - 🏆 1x Asian Future Innovation Challenge Gold Prize + 1x MiraclePlus Accelarator Finalist Issued by Entrepreneurs Association of Yale International Student (YEA)
 
