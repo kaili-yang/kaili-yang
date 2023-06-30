@@ -21,9 +21,10 @@ I'm Kaili Yang. A full stack developer from Shanghai,China 🇨🇳 and now sett
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
- 
+<!--
 | <a href="https://github.com/kaili-yang/kaili-yang"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaili-yang&count_private=true&show_icons=true&theme=buefy&hide=prs&hide_border=true" alt="Kaili Yang's github stats" /></a> 
 | ------------- | 
+-->
 
 # <img style="width: 25px; height: 25px" src="https://user-images.githubusercontent.com/59118459/169727506-bdad0074-da23-4b4e-9f5e-9b11ab9521db.gif"></img> Projects
 
